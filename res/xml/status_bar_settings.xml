@@ -33,6 +33,14 @@
         android:key="network_traffic_settings"
         android:title="@string/network_traffic_settings_title"
         android:summary="@string/network_traffic_settings_summary" />
+		
+	<!-- OmniSwitch -->
+     <PreferenceScreen
+         android:key="omniswitch"
+         android:id="@+id/omniswitch"
+         android:title="@string/omniswitch_settings_title"
+         android:fragment="org.cyanogenmod.cmparts.statusbar.OmniSwitch" />
+		
 
     <PreferenceCategory
         android:title="@string/status_bar_icons_title">
