@@ -652,5 +652,11 @@
      <string name="omniswitch_first_time_title">Information</string>
      <string name="omniswitch_first_time_message">Make sure you have enabled OmniSwitch. You can do this by using \"Settings\" below</string>
      <string name="omniswitch_settings_title">OmniSwitch</string>
+	 
+	 
+	<!-- Advanced reboot options -->
+    <string name="advanced_reboot_title">Advanced reboot</string>
+    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery, bootloader or performing a soft reboot</string>
+
 	
 	</resources>
